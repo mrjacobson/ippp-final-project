@@ -30,4 +30,4 @@ significant relationship. It seems possible that the best explanation for park
 area and placement are purely geographic, rather than related to the
 demographical composition of an area.
 ## Analysis and code
-Our code can be found in the [Final Project](https://github.com/mrjacobson/ippp-final-project/blob/master/Final%20Project.ipynb) notebook.
+Our analysis and code can be found in the [Final Project](https://github.com/mrjacobson/ippp-final-project/blob/master/Final%20Project.ipynb) notebook.
