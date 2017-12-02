@@ -7,7 +7,7 @@ lower crime rate due to more witnesses. It's also possible that the additional
 park space could lead to increased crime for similar reasons. More people means
 more potential victims. To that end, it's possible that crime could increase in
 areas with more parks.
-##Methodology
+## Methodology
 We collected data on crimes from five major cities, Chicago, New York City,
 Philadelphia, Boston, and San Francisco. We also gathered geographical data
 on these cities for their community areas or police districts. Initially we
@@ -29,3 +29,5 @@ park acreage or the distance to the nearest park. These also showed no
 significant relationship. It seems possible that the best explanation for park
 area and placement are purely geographic, rather than related to the
 demographical composition of an area.
+## Analysis and code
+Our code can be found in the [Final Project](https://github.com/mrjacobson/ippp-final-project/blob/master/Final%20Project.ipynb) notebook.
